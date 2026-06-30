@@ -43,9 +43,3 @@ welcome:
 **Samuel Akosa Onyejekwe**
 📧 samuelonyejekwe852@gmail.com
 🔗 https://github.com/samuelakosaonyejekwe
-
-## Code of conduct
-
-All interactions in this project's spaces (issues, discussions, and any
-correspondence) are governed by the [Code of Conduct](CODE_OF_CONDUCT.md). By
-participating, you agree to uphold it.
