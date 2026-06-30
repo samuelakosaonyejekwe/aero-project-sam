@@ -119,5 +119,15 @@ Reviewed but out of scope (different flow regimes, not used):
   so the locally executed case is the 2.5-D section. The section mesh is generated with gmsh and
   bridged to Fluent via CGNS, because Fluent Meshing's CAD-only region detection does not build a
   volume region from faceted STL on this build.
+
+---
+
+## License
+
+Copyright (c) 2026 Samuel Akosa Onyejekwe. **All Rights Reserved.**
+
+This repository is made publicly viewable for reference and demonstration only.
+No use, copying, modification, or distribution is permitted without the Author's
+prior written permission. See [`LICENSE`](LICENSE) for full terms.
 ```
 
